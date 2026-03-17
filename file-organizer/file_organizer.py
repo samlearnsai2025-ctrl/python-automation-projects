@@ -39,6 +39,8 @@ for file in os.listdir(directory_path):
         # move the file
         shutil.move(source, destination_folder)
 
+        print(f"Moved: {file} to {destination_folder}")
+
 print("Organization complete!")
 
 undo = input("Do you want to undo the organization? (yes/no): ")

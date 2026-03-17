@@ -78,4 +78,4 @@ All CSV files are saved inside the `extracted_tables/` folder.
 ## 👤 Author
 
 Built by Sameera — Python Automation Developer  
-🔗 [Contra Profile](https://contra.com/yourprofile) | [GitHub](https://github.com/samlearnsai2025-ctrl)
+🔗 [Contra Profile](https://contra.com/sam_learns_ai_ug48c87x?referralExperimentNid=DEFAULT_REFERRAL_PROGRAM&referrerUsername=sam_learns_ai_ug48c87x) | [GitHub](https://github.com/samlearnsai2025-ctrl)
